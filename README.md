@@ -19,7 +19,7 @@ Esta é uma calculadora Java desenvolvida utilizando o padrão Observer e o desi
 2. Abra o projeto em sua IDE Java preferida (por exemplo, Eclipse, IntelliJ IDEA).
 
    
-3. Execute o arquivo `CalculadoraApp.java` para iniciar a aplicação.
+3. Execute o arquivo `JavaObserverCalculator.java` para iniciar a aplicação.
 
 ## Padrão Observer
 
